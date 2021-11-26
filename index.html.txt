@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "nome": "INFORMATICA",
@@ -14,4 +14,3 @@
     "nome": "LIVRARIA",
     "descricao": "livros, revistas, quadrinhos"
   }
-]
