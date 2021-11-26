@@ -1,1 +1,17 @@
-hello wolrd
+[
+  {
+    "id": 1,
+    "nome": "INFORMATICA",
+    "descricao": "produtos de informática"
+  },
+  {
+    "id": 2,
+    "nome": "ESCRITORIO",
+    "descricao": "cadeiras, mesas, e materiais de escritório"
+  },
+  {
+    "id": 3,
+    "nome": "LIVRARIA",
+    "descricao": "livros, revistas, quadrinhos"
+  }
+]
